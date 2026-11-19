@@ -765,7 +765,7 @@ elif page == "Batch Scoring":
 
 
 # =========================================================
-# 12. MODEL PERFORMANCE
+# 12. KENNY VS Bon Ange
 # =========================================================
 elif page == "Model Performance":
 
