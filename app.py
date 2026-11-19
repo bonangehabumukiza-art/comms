@@ -275,8 +275,8 @@ def prediction_frame(row):
 # 6. SIDEBAR
 # =========================================================
 with st.sidebar:
-    st.markdown("# 📡 TELECOM")
-    st.markdown("### CHURN INTELLIGENCE")
+    st.markdown("# 📡 kenny")
+    st.markdown("### CHURN  Bon Ange INTELLIGENCE")
     st.markdown("---")
 
     page = st.radio(
